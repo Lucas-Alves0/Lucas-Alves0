@@ -1,6 +1,6 @@
 ### About me
 
-I started my programming journey in 2023, after completing my first year at the company. It was at that point that I realized my passion for programming and my desire to make an impact through technology. Since then, I've been continuously improving my skills and applying Python, SQL, and JavaScript in my daily work. Currently, I'm expanding my expertise by learning HTML and CSS for web development.
+I started my programming journey in 2021, after completing my first year at the company. It was at that point that I realized my passion for programming and my desire to make an impact through technology. Since then, I've been continuously improving my skills and applying Python, SQL, and JavaScript in my daily work. Currently, I'm expanding my expertise by learning HTML and CSS for web development.
 
 I'm always looking for new challenges and opportunities to grow as a developer and contribute to impactful projects.
 
