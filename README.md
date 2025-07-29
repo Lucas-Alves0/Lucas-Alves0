@@ -6,7 +6,7 @@ I'm always looking for new challenges and opportunities to grow as a developer a
 
 *   🌍  I'm live in São Paulo, Brazil
 *   ✉️  You can contact me at [here](https://www.linkedin.com/in/lucas-alves-816159209/).
-*   🧠  I'm learning HTML, CSS and JavaScript.
+*   🧠  I'm learning HTML, CSS, JavaScript and NodeJS.
 *   🎮  I love games, i'm trying to create my own indie game.
 
 ### Skills 
